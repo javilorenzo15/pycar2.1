@@ -4,7 +4,7 @@ import math
 
 from car_model import Car2
 from lane_following import CurvedRoad
-from Main_functions import *
+from main_functions import *
 # Initialize the game engine
 pygame.init()
 
