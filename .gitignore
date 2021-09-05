@@ -1,0 +1,9 @@
+# folder made by python
+__pycache__/
+
+
+# compiled source #
+*.pyc
+
+/results
+/saved-models
